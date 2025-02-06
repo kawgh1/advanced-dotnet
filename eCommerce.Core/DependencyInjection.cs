@@ -1,6 +1,8 @@
 ﻿using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
+using eCommerce.Core.ServiceContracts;
+using eCommerce.Core.Services;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace eCommerce.Core;
@@ -16,7 +18,7 @@ public static class DependencyInjection {
     {
         //TODO: Add services to the IoC Container
         // Core services 
-
+        services.AddSingleton<IUserService, UserService>();
         return services;
     }
 
