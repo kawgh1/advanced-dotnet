@@ -1,6 +1,6 @@
 # Advanced Dotnet
 - Covering Dotnet, Kubernetes, Docker, Azure DevOps integration
-- Course ![link](https://www.udemy.com/course/dot-net-microservices-ecommerce-project-azure-devops-kubernetes-aks/learn/lecture/45773657#overview)
+- Course ![link](https://www.udemy.com/course/dot-net-microservices-ecommerce-project-azure-devops-kubernetes-aks/)
 
 
 - .NET Backend + Angular Client
